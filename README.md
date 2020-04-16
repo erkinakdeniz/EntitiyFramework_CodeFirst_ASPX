@@ -36,7 +36,7 @@ Bu uygulamada bizlere:
     
 ### Web.config
 
-EntityFramework_CodeFirst_Web2 içindeki `Wpp.config` içine yazılan kodlar:
+EntityFramework_CodeFirst_Web2 içindeki `Wep.config` içine yazılan kodlar:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
